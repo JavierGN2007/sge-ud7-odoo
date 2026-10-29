@@ -1,7 +1,8 @@
-# Enlace del vídeo
+# 6.-Vídeo en Youtube
+## Enlace del vídeo
 [Ver aquí](https://youtu.be/pdN0STFHmhc)
 
-# Cronología del video
+## Cronología del video
 * 0:00-0:33 Inicio
 * 0:34-1:59 Perfiles de usuario
 * 2:00-4:23 Configuración del grupo propio
